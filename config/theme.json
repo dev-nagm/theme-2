@@ -1,0 +1,25 @@
+{
+    "name": "Theme 2`",
+    "slug": "theme-2",
+    "version": "1.0.0",
+    "description": "New Theme created",
+    "category": "ecommerce",
+    "author": {
+        "name": "Your Name",
+        "email": "your.email@example.com",
+        "url": "https:\/\/yourwebsite.com"
+    },
+    "license": "MIT",
+    "tags": [],
+    "price": 0,
+    "features": {
+        "responsive": true,
+        "mobile_optimized": true,
+        "seo_ready": true,
+        "customizable": true
+    },
+    "requirements": {
+        "php_version": ">=8.0",
+        "platform_version": ">=1.0.0"
+    }
+}
